@@ -51,7 +51,7 @@ tantly, our method operates without appearance models and
 
 ### 2. Overview
 <p align="center">
-   <img width="1587" height="627" alt="image" src="https://github.com/user-attachments/assets/834060d9-6930-4660-b607-3ba7a991b62d" />
+   <img width="1587" height="627" alt="image" src="123.png" />
 
  <br />
 </p>
