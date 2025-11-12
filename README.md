@@ -62,7 +62,7 @@ Share us a :star: if you're interested in this repo. We will continue to track r
 
 ## 📖 Citation
 
-If you find our survey and repository useful for your research, please consider citing our paper:
+If you find our repository useful for your research, please consider citing our paper:
 
 ```bibtex
 @article{fu2025dmtrack,
